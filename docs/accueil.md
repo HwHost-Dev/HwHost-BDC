@@ -1,6 +1,6 @@
 ---
 id: accueil
-title: HwHost | Base de connaissance
+title: Accueil
 ---
 
 # 👋 À propos de HwHost

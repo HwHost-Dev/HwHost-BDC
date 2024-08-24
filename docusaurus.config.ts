@@ -10,8 +10,8 @@ const config: Config = {
   url: 'https://bdc.hwhost.fr',
   baseUrl: '/',
 
-  organizationName: 'HwHost',
-  projectName: 'HwHost | Base de connaissance',
+  organizationName: '',
+  projectName: '',
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
@@ -36,7 +36,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/hwhost-bg.png',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
